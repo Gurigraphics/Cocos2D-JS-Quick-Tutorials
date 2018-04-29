@@ -29,4 +29,7 @@ Cocos2D-JS | Quick Tutorials
 
 [12 | Cocos2D-JS | How use keyboard to move a sprite](https://github.com/Gurigraphics/Cocos2D-JS-Quick-Tutorials/issues/13)
 
+## You liked it and want more tutorials?
+
+Collaborate with this repo. Commit and send your tutorials.
 
