@@ -37,8 +37,7 @@ All you need is the cocos library, a browser and code editor.
 
 [13 | Cocos2D-JS | How create a tilemap](https://github.com/Gurigraphics/Cocos2D-JS-Quick-Tutorials/issues/14)
 
-
-
+[14 | Cocos2D-JS | How import a tilemap](https://github.com/Gurigraphics/Cocos2D-JS-Quick-Tutorials/issues/15)
 
 
 ## Collaborate with this repo
