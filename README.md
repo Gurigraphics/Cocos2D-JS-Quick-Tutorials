@@ -33,6 +33,7 @@ All you need is the cocos library, a browser and code editor.
 [12 | Cocos2D-JS | How use keyboard to move a sprite](https://github.com/Gurigraphics/Cocos2D-JS-Quick-Tutorials/issues/13)
 
 ## Collaborate with this repo
-The advantage of learning by writing tutorials is that, in the future, you can easily search what you need. 
+The advantage of learning by writing tutorials is that, in the future, you can easily search what you need.
+
 So collaborate with this repo. Send your commits and tutorials.
 
