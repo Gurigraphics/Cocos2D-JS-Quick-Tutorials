@@ -4,7 +4,7 @@ Cocos2D-JS | Quick Tutorials
 Some step-by-step javascript tutorials for beginners. 
 All you need is the cocos library, a browser and code editor.
 
-## Index
+## Module 01
 
 [00 | Cocos2D-JS | Game Start](https://github.com/Gurigraphics/Cocos2D-JS-Quick-Tutorials/issues/1)
 
@@ -31,6 +31,15 @@ All you need is the cocos library, a browser and code editor.
 [11 | Cocos2D-JS | How to do scene transition](https://github.com/Gurigraphics/Cocos2D-JS-Quick-Tutorials/issues/12)
 
 [12 | Cocos2D-JS | How use keyboard to move a sprite](https://github.com/Gurigraphics/Cocos2D-JS-Quick-Tutorials/issues/13)
+
+
+## Module 02
+
+[13 | Cocos2D-JS | How create a tilemap](https://github.com/Gurigraphics/Cocos2D-JS-Quick-Tutorials/issues/14)
+
+
+
+
 
 ## Collaborate with this repo
 The advantage of learning by writing tutorials is that, in the future, you can easily search what you need.
