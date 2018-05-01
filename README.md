@@ -41,7 +41,7 @@ All you need is the cocos library, a browser and code editor.
 
 [15 | Cocos2D-JS | How create spritesheet.png and spritesheet.plist](https://github.com/Gurigraphics/Cocos2D-JS-Quick-Tutorials/issues/16)
 
-[16 | Cocos2D-JS | How create a animation](https://github.com/Gurigraphics/Cocos2D-JS-Quick-Tutorials/issues/17)
+[16 | Cocos2D-JS | How create an animation](https://github.com/Gurigraphics/Cocos2D-JS-Quick-Tutorials/issues/17)
 
 
 ## Collaborate with this repo
