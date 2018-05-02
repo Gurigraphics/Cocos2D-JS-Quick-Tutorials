@@ -43,6 +43,10 @@ All you need is the cocos library, a browser and code editor.
 
 [16 | Cocos2D-JS | How create an animation](https://github.com/Gurigraphics/Cocos2D-JS-Quick-Tutorials/issues/17)
 
+[17 | Cocos2D-JS | How create objects with Chipmunk Physics](https://github.com/Gurigraphics/Cocos2D-JS-Quick-Tutorials/issues/18)
+
+[18 | Cocos2D-JS | How remove objects with Chipmunk Physics](https://github.com/Gurigraphics/Cocos2D-JS-Quick-Tutorials/issues/19)
+
 
 ## Collaborate with this repo
 The advantage of learning by writing tutorials is that, in the future, you can easily search what you need.
